@@ -1,1 +1,9 @@
-Big O Section Notes:
+Big O Section Notes
+
+What is good code?
+- Readable
+- Scalable (Big O)
+
+
+
+
